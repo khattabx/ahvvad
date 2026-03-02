@@ -4,4 +4,4 @@
 
 🌱 I'm currently learning Data Engineering. 
 
-📫 How to reach me ahmad.khattabx@gmail.com
+📫 How to reach me khattabxa@gmail.com
