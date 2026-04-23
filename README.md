@@ -1,6 +1,6 @@
 👋 Hi, I'm Ahmed Yasser.
 
-👀 I'm interested in Data Science.
+👀 I'm interested in Big Data and Data Architecture.
 
 🌱 I'm currently learning Data Engineering. 
 
