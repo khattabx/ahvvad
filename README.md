@@ -1,6 +1,5 @@
 👇
-<p align="left"> <a href="https://twitter.com/ikhattab_" target="blank"><img src="https://img.shields.io/twitter/follow/ikhattab_" alt="ikhattab_" /></a>
- </p>
+<p align="left"> <a href="https://twitter.com/ikhatab_" target="blank"><img src="https://img.shields.io/twitter/follow/ikhatab_" alt="ikhatab_" /></a></p>
 
 - 👷‍♂️ Trying to be a Data Engineer.
 - 📫 How to reach me **khattabxa@gmail.com**
